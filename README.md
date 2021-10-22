@@ -1,5 +1,5 @@
 <p align="center">BemVindo Tropa!</center><br></p>
-<p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" src="https://cdn.discordapp.com/avatars/413358448453877772/a_e8c75577d11a8694168bbdd8c39a1563.gif"><br>
+<p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" src="https://i.pinimg.com/originals/bd/d2/a9/bdd2a9e3c873654d5b9df1a0254cf74a.gif"><br>
 	<p align="center">JucaBala#9999</center><br></p>
 <p align="center">
 	<img height="20" src="https://static.wikia.nocookie.net/hypesquad/images/4/4f/BalanceLogo.png/revision/latest?cb=20180825045553">
